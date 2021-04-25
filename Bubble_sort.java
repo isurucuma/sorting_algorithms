@@ -1,8 +1,6 @@
 /**
  * @author Isuru Akalanka Cumaraanthunga
  */
- 
-package Bubble_sort;
 
 import java.io.BufferedReader;
 import java.io.IOException;
