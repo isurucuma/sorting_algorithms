@@ -1,5 +1,5 @@
 /**
- * @author Cumaranathunga P.I.A.
+ * @author Isuru Akalanka Cumaranathunga
  */
 
 public class Insertion_sort {
